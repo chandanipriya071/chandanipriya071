@@ -1,4 +1,4 @@
-# 💕 Hi there, I'm Chandani Kumari  💞
+# 💕 Hi there, I'm Chandani Kumari 💞
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=chandanipriya071&label=Profile%20views&color=0e75b6&style=flat" alt="surajkumar071" />
