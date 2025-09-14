@@ -94,7 +94,7 @@
   
 
 
-<!-- ########################################## 分割 ########################################## -->
+<!-- ########################################## ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/chandanipriya071/chandanipriya071/assets/images/hr.gif" />
 
 <div align="center" >
@@ -106,13 +106,13 @@
 <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
 
 
-<!-- ########################################## 分割 ########################################## -->
+<!-- ########################################## ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/chandanipriya071/chandanipriya071/assets/images/hr.gif" />
 
-<!-- GitHub metrics 信息指标 -->
+<!-- GitHub metrics -->
 <div align="center">
 
-<!-- just img 图片 -->
+<!-- just img  -->
 <img width="36%" src="https://cdn.jsdelivr.net/gh/chandanipriya071/chandanipriya071/assets/images/githubgif.gif" />
 
 ### 🔝 Top Contributed Repositories
